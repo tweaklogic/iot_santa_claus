@@ -1,3 +1,4 @@
 face_encodings.pkl
-dataset/*
+dataset/
+python3-venv/
 
