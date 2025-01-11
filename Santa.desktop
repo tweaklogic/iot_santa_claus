@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=IoT Santa Claus
+Comment=Launh IoT Santa Claus application
+Exec=/home/pi/iot_santa_claus/run_iot_santa_claus.sh
+Icon=/home/pi/iot_santa_claus/images/santa.png
+Terminal=false
+Type=Application
+Categories=Utility;
